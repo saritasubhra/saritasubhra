@@ -38,12 +38,11 @@ Here are some ideas to get you started:
 
 ```javascript
 const johnDoe = {
-  role:        "Full Stack Developer",
-  experience:  "1+ Years",
-  location:    "Your City, Country 🌏",
-  focus:       ["Web Apps", "APIs", "Automation", "UI/UX"],
+  role: "Full Stack Developer",
+  experience: "1+ Years",
+  location: "India",
+  focus: ["Web Apps", "APIs", "Automation", "UI/UX"],
   currentlyLearning: ["Cloud Architecture", "DevOps"],
-  funFact:     "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
@@ -52,30 +51,34 @@ const johnDoe = {
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg" />
 </p>
 
 ### ⚛️ Frontend
+
 <p align="left">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-ar21.svg" />
 </p>
 
 ### 🔧 Backend
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
 </p>
 
 ### 🗄️ Databases & Cloud
+
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -84,6 +87,7 @@ const johnDoe = {
 </p>
 
 ### ⚙️ DevOps & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -92,6 +96,7 @@ const johnDoe = {
 </p>
 
 ### 🛒 Platforms
+
 <p align="left">
   <img src="https://img.shields.io/badge/Shopify-%2396BF48.svg?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
