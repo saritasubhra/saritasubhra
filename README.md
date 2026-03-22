@@ -1,22 +1,3 @@
-## Hi there 👋
-
-
-<!--
-**saritasubhra/saritasubhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20John%20Doe%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%201%2B%20Years%20of%20Crafting%20Digital%20Experiences&descAlignY=55&descSize=16" width="100%"/>
@@ -38,11 +19,12 @@ Here are some ideas to get you started:
 
 ```javascript
 const johnDoe = {
-  role: "Full Stack Developer",
-  experience: "1+ Years",
-  location: "India",
-  focus: ["Web Apps", "APIs", "Automation", "UI/UX"],
+  role:        "Full Stack Developer",
+  experience:  "1+ Years",
+  location:    "Your City, Country 🌏",
+  focus:       ["Web Apps", "APIs", "Automation", "UI/UX"],
   currentlyLearning: ["Cloud Architecture", "DevOps"],
+  funFact:     "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
@@ -51,54 +33,35 @@ const johnDoe = {
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
-  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,html,css&theme=dark" />
 </p>
 
 ### ⚛️ Frontend
-
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" />
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-ar21.svg" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,framermotion&theme=dark" />
 </p>
 
 ### 🔧 Backend
-
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 </p>
 
-### 🗄️ Databases & Cloud
-
+### 🗄️ Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&theme=dark" />
 </p>
 
 ### ⚙️ DevOps & Tools
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
 </p>
 
-### 🛒 Platforms
-
+### 🛒 Platforms & Others
 <p align="left">
-  <img src="https://img.shields.io/badge/Shopify-%2396BF48.svg?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=shopify&theme=dark" />
+  <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 </p>
 
 ---
